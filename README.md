@@ -1,24 +1,5 @@
 # README
+This repository is intended as a presentable container for experiments, tutorials and scratchpads using the __three.js__ 3D rendering library.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+__The vision:__ a simple landing page with links to view each "playground".
+__The goal:__ to mess around, mess up, play around, create something stupid, create something brilliant, and hopefully have some fun.
